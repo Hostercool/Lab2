@@ -1,0 +1,203 @@
+.My_house{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
+
+.My_house_left_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: absolute;
+  left: 105px;
+  top: 170px;
+}
+
+.My_house_right_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: absolute;
+  left: 195px;
+  top: 170px;
+}
+
+.My_house_door{
+  width: 50px;
+  height: 70px;
+  background: red;
+  position: absolute;
+  left: 150px;
+  top: 230px;
+}
+
+.My_house_roof{
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  position: absolute;
+  left: -75px;
+  top: -300px;
+  border-top: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 100px solid green;
+  border-left: 100px solid transparent;
+}
+
+
+
+
+
+
+
+.My_house2{
+  width: 150px;
+  height: 150px;
+  background: black;
+  position: fixed;
+  left: 500px;
+  top: 150px;
+}
+
+.My_house2_left_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: fixed;
+  left: 510px;
+  top: 170px;
+}
+
+.My_house2_right_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: fixed;
+  left: 590px;
+  top: 170px;
+}
+
+.My_house2_door{
+  width: 50px;
+  height: 70px;
+  background: yellow;
+  position: fixed;
+  left: 550px;
+  top: 230px;
+}
+
+.My_house2_roof{
+
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  position: fixed;
+  left: 460px;
+  top: -100px;
+  border-top: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 100px solid green;
+  border-left: 100px solid transparent;
+}
+
+
+
+
+.My_house3{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: relative;
+  left: 300px;
+  top: 150px;
+}
+
+.My_house3_left_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: relative;
+  left: 310px;
+  top: 20px;
+}
+
+.My_house3_right_window{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: relative;
+  left: 390px;
+  top: -30px;
+}
+
+.My_house3_door{
+  width: 50px;
+  height: 70px;
+  background: red;
+  position: relative;
+  left: 350px;
+  top: -20px;
+}
+
+.My_house3_roof{
+  z-index: 2
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  position: relative;
+  left: -75px;
+  top: -300px;
+  border-top: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 100px solid green;
+  border-left: 100px solid transparent;
+}
+
+
+
+.block3{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: static;
+  margin-top: 000px;
+  margin-left: 110px;
+
+
+}
+
+.window3{
+  height: 50px;
+  width: 50px;
+  background: green;
+  position: static;
+  margin-top: -100px;
+  margin-left: 190px;
+
+}
+
+.door3{
+  height: 100px;
+  width: 40px;
+  background: brown;
+  position: static;
+  margin-top: -50px;
+  margin-left: 120px;
+
+}
+
+.roof3{
+  width: 1px;
+  height: 1px;
+  border-top: 60px solid white;
+  border-right: 100px solid white;
+  border-left: 100px solid white;
+  border-bottom: 50px solid #ACACC4;
+  background: white;
+  margin-top: -227px;
+  margin-left: 83px;
+  position: static;
+}
